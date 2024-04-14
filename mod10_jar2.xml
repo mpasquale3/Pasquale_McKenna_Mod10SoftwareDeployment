@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="mod10:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/mod10_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="mod10.jar">
+        <element id="module-output" name="mod10" />
+      </element>
+    </root>
+  </artifact>
+</component>
