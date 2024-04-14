@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="LMS_Phase2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LMS_Phase2_jar</output-path>
+    <root id="root">
+      <element id="archive" name="LMS_Phase2.jar">
+        <element id="module-output" name="LMS_Phase2" />
+      </element>
+    </root>
+  </artifact>
+</component>
